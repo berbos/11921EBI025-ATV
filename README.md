@@ -3,4 +3,4 @@
 
 ##objetivo
 
-desenvolver o arquivo main.c main.o Makefile startup.c startup.o
+desenvolver o arquivo main.c, main.o, Makefile, startup.c, startup.o, linker script 
